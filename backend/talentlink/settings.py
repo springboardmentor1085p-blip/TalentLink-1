@@ -115,7 +115,7 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = "talentlink58@gmail.com"
-EMAIL_HOST_PASSWORD = "qjyg zwhm lzvr ipnv"  # app password
+EMAIL_HOST_PASSWORD = "********************"  # app password
 DEFAULT_FROM_EMAIL = "TalentLink <talentlink58@gmail.com>"
 
 # URL where the React app runs (used in password reset links if needed)
@@ -176,4 +176,4 @@ ALLOWED_FILE_EXTENSIONS = [
     'doc', 'docx', 'txt', 'zip'
 ]
 
-GEMINI_API_KEY = "AIzaSyDAP829g5RBj_sGpD8aRdedYSUzo1ftfQs"
+GEMINI_API_KEY = ""
